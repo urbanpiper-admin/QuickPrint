@@ -51,6 +51,6 @@
 		"electron-json-storage": "^4.1.6",
 		"express": "^4.17.1",
 		"get-port": "^5.0.0",
-		"node-fetch": "^2.6.0"
+		"node-fetch": "^2.6.1"
 	}
 }
